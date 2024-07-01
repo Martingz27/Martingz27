@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a>Martin Gutierrez</a> 👋</h1>
 </div>
-<img src="[![Desarrollador-Mobile.png](https://i.postimg.cc/3RgxqWst/Desarrollador-Mobile.png)](https://postimg.cc/bDwPDYNn)">
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3RgxqWst/Desarrollador-Mobile.png' border='0' alt='Desarrollador-Mobile'/></a>
 ## Sobre mi
 
 - 📲 Mobile developer
